@@ -14,9 +14,7 @@
   .home-containe {
     flex-direction: column;
   }
-  .banner-footer {
-    display: none;
-  }
+
   .about-containe {
     flex-direction: column;
     align-items: center;
@@ -64,10 +62,14 @@
   .link-itme {
     font-size: 18px;
   }
+  .home {
+    height: 100%;
+  }
   .banner-sub-title-second {
     display: none;
   }
   .banner-footer {
+    display: none;
     rotate: -4.5deg;
     top: -45px;
     right: 30px;
@@ -188,8 +190,12 @@
   .banner-sub-title-second {
     font-size: 18px;
   }
+  .banner-footer {
+    top: -10px;
+  }
   .banner-footer-title {
     padding-top: 35px;
+    font-size: 22px;
   }
   .experience-containe {
     display: flex;
