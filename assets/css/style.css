@@ -50,7 +50,7 @@
   margin-top: 40px;
   z-index: 1000;
   overflow: hidden;
-  height: 125vh;
+  padding-bottom: 20px;
 }
 .home-containe {
   display: flex;
