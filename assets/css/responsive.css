@@ -1,3 +1,23 @@
+@media screen and (max-width: 430px) {
+  .experience-cart {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 400px;
+  }
+  .awards-box {
+    max-width: 400px !important;
+  }
+  .portfolio-box {
+    flex-direction: column;
+    text-align: center;
+  }
+  .contant-box-contant {
+    margin: 20px 25px 20px 25px !important;
+  }
+  .form-group {
+    flex-direction: column;
+  }
+}
 @media screen and (max-width: 640px) {
   .header-containe {
     flex-direction: column;
